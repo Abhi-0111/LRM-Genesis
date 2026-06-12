@@ -9,4 +9,12 @@
 6) custom protocols
 7) Agentic AI system
 
-I will try to code everything with mathematical understanding and framework like pytorch tensorflow langchain langraph (maybe crewai, beeai, A2G)if needed will explore hehe 
+I will try to code everything with mathematical understanding and framework like pytorch tensorflow langchain langraph (maybe crewai, beeai, A2G)
+### Research Implementation
+1) custom neural network(Implementation + Optimization) using Np for Transformer no need of nn from pytorch
+2) LLM Reasoning
+    1. RLHF
+    2. Neurosymbolic AI
+    3. Causal Inference (causal graph and estimation using LLM augmented causal inference framwework??)
+    4. All three in one research + Understanding existing Framework
+    5. maybe quantum inspired causal inference for LLM Reasoning
