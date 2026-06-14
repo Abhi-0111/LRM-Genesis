@@ -30,3 +30,4 @@ I will try to code everything with mathematical understanding and framework like
     3. Causal Inference (causal graph and estimation using LLM augmented causal inference framwework??)
     4. All three in one research + Understanding existing Framework
     5. maybe quantum inspired causal inference for LLM Reasoning
+## for starter i am pasting my daily google colab work 
