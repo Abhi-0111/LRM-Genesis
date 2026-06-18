@@ -27,7 +27,7 @@ I will try to code everything with mathematical understanding and framework like
 1) custom neural network(Implementation + Optimization) using Np for Transformer no need of nn from pytorch
 2) LLM Reasoning
     1. RLHF(GRPO/PPO)
-    2. # Implementing frontier research on top of RL or only frontier research deprived from RL  
+    2. ## Implementing frontier research on top of RL or only frontier research deprived from RL  
     3. Neurosymbolic AI  
     4. Causal Inference (causal graph and estimation using LLM augmented causal inference framwework??) 
     5. All three in one research + Understanding existing Framework
