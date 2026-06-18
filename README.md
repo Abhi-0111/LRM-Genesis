@@ -1,4 +1,5 @@
-# LLM-genesis
+# LRM-genesis
+A compact reasoning language model inspired by R1-style deliberative Reasoning 
 ## Journey of coding custom LRM- Large Reasoning model from scratch 
 ## Step by step implemenation 
 1) sebastian - complete GPT2 architecture/Deepseek R1
@@ -25,11 +26,12 @@ I will try to code everything with mathematical understanding and framework like
 ## Research Implementation
 1) custom neural network(Implementation + Optimization) using Np for Transformer no need of nn from pytorch
 2) LLM Reasoning
-    1. RLHF
-    2. Neurosymbolic AI
-    3. Causal Inference (causal graph and estimation using LLM augmented causal inference framwework??)
-    4. All three in one research + Understanding existing Framework
-    5. maybe quantum inspired causal inference for LLM Reasoning
+    1. RLHF(GRPO/PPO)
+    2. # Implementing frontier research on top of RL or only frontier research deprived from RL  
+    3. Neurosymbolic AI  
+    4. Causal Inference (causal graph and estimation using LLM augmented causal inference framwework??) 
+    5. All three in one research + Understanding existing Framework
+    6. maybe quantum inspired causal inference for LLM Reasoning
 
   1. Causal RL for LLM Reasoning
 
