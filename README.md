@@ -1,5 +1,5 @@
 # LLM-genesis
-## Journey of coding custom LLM from scratch 
+## Journey of coding custom LRM- Large Reasoning model from scratch 
 ## Step by step implemenation 
 1) sebastian - complete GPT2 architecture/Deepseek R1
 2) Fine tuning both classification and Instruction on custom dataset
