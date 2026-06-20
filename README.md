@@ -4,17 +4,7 @@ A compact reasoning language model inspired by R1-style deliberative Reasoning
 ## Step by step implemenation 
 1) sebastian - complete GPT2 architecture/Deepseek R1
 2) Fine tuning both classification and Instruction on custom dataset
-3) Rag Integration
-4) Memory Managment
-5) AI agents
-6) custom protocols
-7) Agentic AI system
-
-## Production 
-1) Inference & batching request
-2) KV cache management
-3) Batching strategies
-4) GPU memory Mangement (CUDA) 
+3) Check on accuracy between GRPO reasoning model and fine tuning using (LoRA/QLoRA) or maybe using both... We could use this model for financial engineering projects
 5) Serving Framework (vLLm, TGI, TesnorRT-LLM)
 6) Token Budgeting and cost control
 7) Database In llm
