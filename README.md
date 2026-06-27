@@ -1,4 +1,5 @@
-# LRM-genesis
+# ReM-RL (Reasoning model using Reinforcement learning) 
+## Upcoming causal inference on top of RL 
 This repository is the implemenation planning of reasoning model. All of my reasoning requisites code will be pushed here along with unsloth vllm that convert non reasoning model to reasoning model 
 
 A compact reasoning language model inspired by R1-style deliberative Reasoning 
