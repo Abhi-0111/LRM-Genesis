@@ -1,4 +1,6 @@
 # LRM-genesis
+This repository is the implemenation planning of reasoning model. All of my reasoning requisites code will be pushed here along with unsloth vllm that convert non reasoning model to reasoning model 
+
 A compact reasoning language model inspired by R1-style deliberative Reasoning 
 ## Journey of coding custom LRM- Large Reasoning model from scratch 
 ## Step by step implemenation 
